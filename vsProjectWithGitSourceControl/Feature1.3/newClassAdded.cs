@@ -7,5 +7,6 @@ namespace vsProjectWithGitSourceControl.Feature1.3
 {
 	public class newClassAdded
 	{
+        //add new code
 	}
 }
