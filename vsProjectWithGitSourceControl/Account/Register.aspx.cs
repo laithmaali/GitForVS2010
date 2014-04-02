@@ -14,6 +14,7 @@ namespace vsProjectWithGitSourceControl.Account
         protected void Page_Load(object sender, EventArgs e)
         {
             //page load change 
+            //change 101
             RegisterUser.ContinueDestinationPageUrl = Request.QueryString["ReturnUrl"];
         }
 
